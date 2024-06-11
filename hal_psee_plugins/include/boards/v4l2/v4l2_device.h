@@ -14,6 +14,7 @@
 
 #include <string>
 #include <vector>
+#include <algorithm>
 
 #include <linux/videodev2.h>
 
